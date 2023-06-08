@@ -33,5 +33,9 @@
 
 ### Future Plan:
 -implementing a popupcard which describes details of each cast-members when clicked.
+
+
 -Implementing Add to Favourite and Like functionalities.
+
+
 -page pagination for recommended movies
