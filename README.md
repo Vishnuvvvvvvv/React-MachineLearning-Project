@@ -26,7 +26,7 @@
 -it will lead you to a new page which contains the details of the clicked movie and a recommendation section below it , which contains 8 recommended movies.
 
 
--This proccess is repeated for each clicked movie on the recommendations list.
+-Dynamic routing for each movie,i.e., the above proccess is repeated for each clicked movie on the recommendations list.
 
 
 -inside the predict page , user can submit a form which contains names of director, writer,editor,main-lleads etc.. based on that,the model will predict box office success of a movie
