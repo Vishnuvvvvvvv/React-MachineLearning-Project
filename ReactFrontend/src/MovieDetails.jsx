@@ -11,7 +11,7 @@ function MovieDetails() {
 
   useEffect(() => {
     const fetchMovieDetails = async () => {
- const url = `http://www.omdbapi.com/?apikey=5c6b9a69&t=${(id)}`
+ const url = `http://www.omdbapi.com/?apikey= APIKEY`
       const response = await fetch(url);
       const data = await response.json();
           
