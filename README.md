@@ -39,3 +39,10 @@
 
 
 -page pagination for recommended movies
+
+
+NOTE: For building api, you can use either Fask alone,or Fast API alone;
+      here i have used a combination of flask and fast API,flask for movie recommendation system and fast API for movie prediction system.
+      coding in flask for movie recommendation alone, given in Full Movie App _Flask folder
+      coding in fastAPI alone for movie recommendation and box-office prediction present in FullMovieApp and FullMovieApp_2 folder.
+      
