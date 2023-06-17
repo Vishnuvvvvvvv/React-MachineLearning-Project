@@ -1,0 +1,4 @@
+USing Flask we are building the backend for our application:
+-backend for Movie recommendation form.
+-so we'll have 2 api urls, one built using fast api for movie box office success prediction 
+-and other api built using for flask (for movie Recommendation form).
