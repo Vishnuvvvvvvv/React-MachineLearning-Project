@@ -3,7 +3,7 @@
 -In this project i have created 2 Machine Learning models ,one to predict the success of a movie(Hit,Flop,Average,BlockBuster,All Time Blockbuster) and the other to predict the recommended movies names for a particular movie-title input.
 
 
--Then with the help of FastApi(web framework for building APIs with Python) , both models were made available to the Frontend.
+-Then with the help of Flask and FastApi(web framework for building APIs with Python) , both models were made available to the Frontend.
 
 
 -The UI for my application was beautifully done using React.
