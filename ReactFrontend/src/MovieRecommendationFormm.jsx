@@ -17,7 +17,7 @@ const [isLoading,setIsLoading] = useState(false)
 async function handleSearch(){
 //when this fun clicked get image from omdb api also ,  get recomendations from fast api
 //lets get data from omdb api
-  const url = `http://www.omdbapi.com/?apikey=5c6b9a69&t=${encodeURIComponent(searchQuery)}`
+  const url = `http://www.omdbapi.com/?apikey=APIKEYY=${encodeURIComponent(searchQuery)}`
   const response = await fetch(url);
   const data = await response.json()
   setSearchedMoveDetails(data)
